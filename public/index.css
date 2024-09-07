@@ -113,9 +113,9 @@ ol {
   grid-row: span 2;
 }
 
-  .first-grid-card {
+  /* .first-grid-card { */
     /* grid-column: span 3; */
-  }
+  /* } */
 
   .grid-card {
     background-color: blueviolet;
